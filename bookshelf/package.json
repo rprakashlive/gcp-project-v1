@@ -1,12 +1,12 @@
 {
-  "name": "nodejs-getting-started",
-  "description": "End to end sample for running Node.js applications on Google Cloud Platform",
+  "name": "gcp-example-project",
+  "description": "",
   "license": "Apache-2.0",
   "author": "Google LLC",
   "engines": {
     "node": ">=10"
   },
-  "repository": "https://github.com/GoogleCloudPlatform/nodejs-getting-started",
+  "repository": "",
   "main": "app.js",
   "private": true,
   "scripts": {
