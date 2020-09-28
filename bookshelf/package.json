@@ -1,8 +1,8 @@
 {
-  "name": "gcp-example-project",
+  "name": "gcp-rprakashlive-project-v1",
   "description": "",
-  "license": "Apache-2.0",
-  "author": "Google LLC",
+  "license": "",
+  "author": "",
   "engines": {
     "node": ">=10"
   },
